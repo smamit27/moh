@@ -1,0 +1,19 @@
+.footerImage {
+    width:auto;
+    margin-top:0px;
+    margin-left:20px;
+}
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 70px;
+    background-color: #ffffff;
+    z-index: 1;
+}
+.footerbar{
+    height: 5px;
+    width: 100%;
+    background: linear-gradient(90deg, #00AFD7, #7d8380,#69BE28,#be284e)
+
+}
